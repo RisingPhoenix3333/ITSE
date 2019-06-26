@@ -1,0 +1,7 @@
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\bin\Debug\Manymethods.exe.config
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\bin\Debug\Manymethods.exe
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\bin\Debug\Manymethods.pdb
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\obj\Debug\Manymethods.csprojAssemblyReference.cache
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\obj\Debug\Manymethods.csproj.CoreCompileInputs.cache
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\obj\Debug\Manymethods.exe
+C:\Users\watts\Desktop\itse-1002\c#projects\Manymethods\Manymethods\obj\Debug\Manymethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\obj\Debug\RPS.csprojAssemblyReference.cache
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\watts\Desktop\itse-1002\c#projects\RPS\RPS\obj\Debug\RPS.pdb

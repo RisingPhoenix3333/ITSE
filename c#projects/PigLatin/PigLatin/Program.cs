@@ -30,12 +30,12 @@ namespace PigLatin
             string firstletter = word.Substring(0, 1);
             
             string lastletter = word.Substring(word.Length - 1);
-            
-            if (vowels.Contains(firstletter) && vowels.Contains(lastletter)){
+
+            if (vowels.Contains(firstletter) && vowels.Contains(lastletter)) {
                 Console.WriteLine(word + "yay");
             }
-            
-            else if (vowels.Contains(firstletter) && !vowels.Contains(lastletter))
+
+            else if (vowels.Contains(firstletter) && !vowels.Contains(lastletter);
             {
                 Console.WriteLine(word + "ay");
             }

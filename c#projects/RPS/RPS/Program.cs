@@ -55,7 +55,7 @@ namespace RPS
 
                 if (randomNumber == 2)
                 {
-                    Console.WriteLine("Cp chose scissors, you lose");
+                    Console.WriteLine("Cp chose scissors, you lose"); 
                 }
 
             }

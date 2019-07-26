@@ -35,7 +35,7 @@ namespace PigLatin
                 Console.WriteLine(word + "yay");
             }
 
-            else if (vowels.Contains(firstletter) && !vowels.Contains(lastletter);
+            else if (vowels.Contains(firstletter) && !vowels.Contains(lastletter))
             {
                 Console.WriteLine(word + "ay");
             }
